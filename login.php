@@ -15,4 +15,5 @@ if (!$conn) {
     echo "Connection failed!";
 
 }
+    echo "Connection Completed"
 ?>
